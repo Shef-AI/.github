@@ -1,0 +1,1 @@
+This Sheffield AI organisation was created with partial support of the [Turing Network Development Award](https://www.turing.ac.uk/news/uk-universities-receive-first-ever-turing-network-development-awards). It aims to show case data science and AI software developed at Sheffield and its network.
